@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0x-npc-spring-ai-mcp-demo-badge.png)](https://mseep.ai/app/0x-npc-spring-ai-mcp-demo)
+
 # 一、项目说明
 基于Spring AI实现的MCP（SSE）服务示例项目，内部包含了交互式会话和机票预订MCP实现。
 > 参考项目：https://github.com/tzolov/playground-flight-booking
